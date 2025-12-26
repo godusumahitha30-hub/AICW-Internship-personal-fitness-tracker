@@ -1,1 +1,1 @@
-# AICW-Internship-personal-fitness-tracker
+# AICW-Internship
